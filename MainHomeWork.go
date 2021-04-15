@@ -18,6 +18,6 @@ type Inmemory struct {
 
 func main () {
 
-	fmt.Println()
+	fmt.Println("Hello Mihalych")
 
 }
