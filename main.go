@@ -6,6 +6,8 @@ type animal interface {
 	makeSound()
 }
 
+
+
 type cat struct{}
 type dog struct{}
 
